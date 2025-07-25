@@ -1,0 +1,6 @@
+● slangbridge.service - Telegram Bot SlangBridge
+     Loaded: loaded (]8;;file://vmi2721939/etc/systemd/system/slangbridge.service/etc/systemd/system/slangbridge.service]8;;; [0;1;32menabled[0m; preset: [0;1;32menabled[0m)
+     Active: activating (auto-restart) (Result: exit-code) since Thu 2025-07-24 21:24:55 CEST; 4s ago
+    Process: 18817 ExecStart=/root/slangbridge/venv/bin/python3 /root/slangbridge/bot.py [0;1;31m(code=exited, status=1/FAILURE)[0m
+   Main PID: 18817 (code=exited, status=1/FAILURE)
+        CPU: 3.485s
